@@ -1,0 +1,5 @@
+In Windows, you can create a desktop shortcut to run batch files. To do this, right click on your desktop, click new, and then select "Shortcut". 
+
+When it asks you for the location, select the location of the batch file "make it linux.bat"
+
+For the icon, you can use the one provided here, or use a different one depending on your distro.

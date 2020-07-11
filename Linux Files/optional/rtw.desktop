@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Reboot to windows
+Icon=/home/fazal/Documents/windowsWithBG.png
+Exec=/home/fazal/Documents/rtw.sh

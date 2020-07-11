@@ -1,0 +1,3 @@
+The process of creating a linux desktop shortcut is a little more involved so I refer you to this https://www.youtube.com/watch?v=VUfGlANgJr4
+
+I have already created the required Desktop Entry file and you just need to set it up such that it points to your "make it windows.sh" script file.

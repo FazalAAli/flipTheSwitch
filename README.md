@@ -15,9 +15,9 @@ Ever since I started dual booting Windows and Linux, the lack of flexibility has
 2. Download the files from github here and set them up according to the “File setup” section.
 3. Mount your Windows partition on boot
 4. Enjoy???
+--
 
-1. Install Grub2Win on your Windows Machine.
-
+**1. Install Grub2Win on your Windows Machine.**
 1. Download, install, and setup Grub2Win (SourceForge Link)
 2. Ensure that your C: drive now has a folder named “grub2”
 
